@@ -1,7 +1,7 @@
 👋 Hi, I'm SlayerLovesCode!
 
 🚀 About Me
-I’m an AI Engineer and Web Developer on a mission to tackle real-world challenges with data-driven solutions and cutting-edge web applications. I’m passionate about building intelligent systems, diving into advanced machine learning techniques, and experimenting with the latest web technologies.
+I’m an AI Engineer on a mission to tackle real-world challenges with data-driven solutions and cutting-edge web applications. I’m passionate about building intelligent systems, diving into advanced machine learning techniques, and experimenting with the latest web technologies.
 
 🔧 Technologies & Tools
 
