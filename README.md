@@ -1,8 +1,25 @@
 👋 Hi, I'm SlayerLovesCode!
-🚀 About Me
-I’m a Machine Learning Enthusiast and Web Developer passionate about solving real-world problems with data-driven solutions and building web applications. 
-I enjoy creating intelligent systems, exploring data science techniques, and experimenting with the latest web technologies.
 
-🌱 I’m currently learning Machine Learning.
-👯 I’m open to collaborating on ML projects, data analysis, and full-stack web development.
-📫 How to reach me: itsmesudhanshuawasthi@gmail.com
+🚀 About Me
+I’m an AI Engineer and Web Developer on a mission to tackle real-world challenges with data-driven solutions and cutting-edge web applications. I’m passionate about building intelligent systems, diving into advanced machine learning techniques, and experimenting with the latest web technologies.
+
+🔧 Technologies & Tools
+
+    Languages: Python, JavaScript, SQL
+    Frameworks: Flask, React, Node.js
+    Machine Learning: TensorFlow, PyTorch, Scikit-learn
+    Data Science: Pandas, NumPy, Matplotlib, Seaborn
+    Databases: MySQL, MongoDB
+    Web Technologies: HTML, CSS, Bootstrap, REST APIs
+
+🌱 Currently Learning
+
+    Advanced AI algorithms
+    AI-driven web development
+    Data visualization best practices
+
+🤝 Let’s Collaborate!
+I’m eager to collaborate on AI projects, data analysis, and full-stack web development. Whether you're seeking a coding partner or looking for insights on a project, let’s connect!
+
+📫 How to Reach Me:
+Feel free to reach out at itsmesudhanshuawasthi@gmail.com
